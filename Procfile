@@ -1,1 +1,1 @@
-web: python body.py
+worker: python body.py
